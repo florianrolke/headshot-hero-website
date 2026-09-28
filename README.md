@@ -1,3 +1,5 @@
+> **This repository has moved.** It now lives in the folder [`headshot-hero-website`](https://github.com/florianrolke/community-resources/tree/main/headshot-hero-website) of [florianrolke/community-resources](https://github.com/florianrolke/community-resources), together with all of Florian Rolke's community resources. This copy is archived (read-only) and stays online so existing links keep working. New fixes and updates happen in community-resources.
+
 # headshot-hero-website
 
 Take any business owner's website, find their photo, remove the background, and rebuild their site with them floating as the hero — for ~$0.15 in API credits.
